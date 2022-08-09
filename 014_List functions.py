@@ -45,6 +45,22 @@ print(myList)
 ##########################################################
 
 myList = [ "item_1" , "item_2" , "item_3" , "item_2" ]
+
 myList.remove("item_2")     # delete the ''''''first'''''' item with value x.
 print(myList)
+
+##########################################################
+
+myList = [ "item_1" , "item_2" , "item_3" , "item_2" ]
+
+indexItem = myList.index("item_2") # Return index the ''''''first'''''' item with value x.
+
+# Options for list.index( value , strat index  , stop index )  <search between start and stop>
+
+##########################################################
+
+myList = [ "item_1" , "item_2" , "item_3" , "item_2" ]
+
+countOfValue = myList.count("item_2")
+
 
