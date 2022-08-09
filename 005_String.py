@@ -25,6 +25,12 @@ interpolation = f"{string_1}! My name is {singleQuotation}"
 index01 = singleQuotation[0]
 index02 = singleQuotation[1]
 
+##############################################
+
+sentence = 'Iam Sajjad Shadrooz.'
+lowerSentence = sentence.lower()
+upperSentence = sentence.upper()
+
 
 
 
