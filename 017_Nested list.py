@@ -11,5 +11,3 @@ item_1_sub_item_2 = nestedList[0][1]  # 2
 ###############################################################
 
 createNestedList = [ [ subItem for subItem in range(1,4) ] for item in range(1,4) ]
-
-

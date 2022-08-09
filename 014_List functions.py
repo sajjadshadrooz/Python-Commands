@@ -62,5 +62,3 @@ indexItem = myList.index("item_2") # Return index the ''''''first'''''' item wit
 myList = [ "item_1" , "item_2" , "item_3" , "item_2" ]
 
 countOfValue = myList.count("item_2")
-
-
