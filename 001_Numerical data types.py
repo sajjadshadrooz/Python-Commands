@@ -18,3 +18,13 @@ print( 49 / 7 )         # 7.0   Always is float
 
 print( 1 + 3 * 8 / 2  )    # 13.0
 print( (1 + 3) * 8 / 2  )  # 16.0
+
+###############################################
+
+negativeNumber = -5
+madePositive = abs( negativeNumber ) # +5 , 5
+
+###############################################
+
+# variable = sum( iterables )  -> return total of numbers.  Important: all items should be number.
+sumation = sum( ( 1 , 2 , 3 , 4 , 5) )
