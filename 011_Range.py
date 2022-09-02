@@ -1,6 +1,6 @@
 
 # class range : List of regular numbers.
-# collection = range( strat , stop , step )
+# collection = range( start , stop , step )
 
 # start: the number that list start with.
 # stop:  the number that list is less than.

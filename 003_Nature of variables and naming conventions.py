@@ -15,4 +15,4 @@ PI = 3.14    # Upper case variable naming. (use for consts)
 
 MyAge = 23   # Upper Camel case variable naming. (use for class)
 
-__my_age__ = 23 # Dunder variable naming.
+__my_age__ = 23 # Dunder mangling naming.
