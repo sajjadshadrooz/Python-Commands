@@ -1,7 +1,7 @@
 
 x = 100
 y = 200
-w , z = 400 , 500
+w , z = 400 , 500   # Note: Usefull for swaping values without temp variable.
 
 #############################################
 
