@@ -10,5 +10,5 @@ This repository is classified in a way so that any person with any level of know
 
 - [x] Explanation of preliminary topics.
 - [x] Explanation of intermediate topics.
-- [x] Explanation of advanced topics.
+- [ ] Explanation of advanced topics.
 - [ ] Standard methods of working with popular tools.
