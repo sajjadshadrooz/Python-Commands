@@ -1,8 +1,8 @@
-# <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="10" height="10"/> </a>Python Commands and Structures!
+# Python Commands and Structures!
 
 ### Introduction:
 
-I will arrange all the materials that I have learned or am learning in Python and put them in this repository.
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25" height="15"/> </a> I will arrange all the materials that I have learned or am learning in Python and put them in this repository.
 By doing this, I intend to put my knowledge in writing so that I can use it when needed.
 This repository is classified in a way so that any person with any level of knowledge can reach the topics they need.
 
