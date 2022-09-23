@@ -6,7 +6,7 @@
 By doing this, I intend to put my knowledge in writing so that I can use it when needed.
 This repository is classified in a way so that any person with any level of knowledge can reach the topics they need.
 
-### TODO List:
+### Goals:
 
 - [x] Explanation of preliminary topics.
 - [x] Explanation of intermediate topics.
